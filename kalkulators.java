@@ -11,16 +11,16 @@ public class kalkulators {
   System.out.print("Input second number: ");
   int num2 = in.nextInt();
    
- 
+ //saskaitisana
   System.out.println(num1 + " + " + num2 + " = " + 
   (num1 + num2));
-   
+   //atnemsana
   System.out.println(num1 + " - " + num2 + " = " + 
   (num1 - num2));
-   
+   //reizinasanaaaa
   System.out.println(num1 + " x " + num2 + " = " + 
   (num1 * num2));
-   
+   //dalisana
   System.out.println(num1 + " / " + num2 + " = " + 
   (num1 / num2));
  
